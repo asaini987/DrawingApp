@@ -1,2 +1,2 @@
 # DrawingApp
-SwiftUI Drawing iPad App
+SwiftUI Drawing iPad App, built with MVVM architecture
